@@ -1,4 +1,4 @@
-# Image Similarity Measure
+# Measuring Image Similarity
 
 ## Overview
 
@@ -22,8 +22,8 @@
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/topazlaz/4S_Mapper.git
-   cd Image_Similarity_Measure
+   git clone https://github.com/topazlaz/Measuring_Image_Similarity.git
+   cd Measuring_Image_Similarity
    ```
 
 3. **Run:**
@@ -65,3 +65,7 @@
 
 ### Comparison Result
 <img src="Results/comparison_result.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+## License
+All code and documentation in this project are available under the [MIT License](https://opensource.org/licenses/MIT).
+See the [LICENSE file](./LICENSE) for details.
